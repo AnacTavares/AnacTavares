@@ -6,4 +6,4 @@
 
 ### Sobre mim
 
-Me graduei em Direito em 2017 e tenho atuado como advogada desde então. Entretanto a área da tecnologia sempre me despertou grande interesse, o que me fez mudar completamente o rumo da minha história e buscar uma transição de carreira. Atualmente sou Estudante de Desenvolvimento Web Full Stack na Trybe, e desejo que futuramente meu trabalho na tecnologia possa contribuir para um impacto social positivo nessa área que tanto cresce e está tão presente em nosso cotidiano.
+Me graduei em Direito em 2017 e tenho atuado como advogada desde então. Entretanto a área da tecnologia sempre me despertou grande interesse, o que me fez mudar completamente o rumo da minha história e buscar uma transição de carreira. Desde então tenho me aprofundado nos assuntos de AWS, Linux e área DevOps.
